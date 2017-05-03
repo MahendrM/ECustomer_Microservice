@@ -1,6 +1,5 @@
 package com.newt.controller;
 
-
 import java.util.List;
 import org.apache.log4j.Logger;
 import org.springframework.beans.factory.annotation.Autowired;
