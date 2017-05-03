@@ -8,13 +8,13 @@ import org.springframework.test.context.web.WebAppConfiguration;
 
 import com.newt.CustomerServiceApplication;
 
-@RunWith(SpringJUnit4ClassRunner.class)
-@SpringApplicationConfiguration(classes = CustomerServiceApplication.class)
-@WebAppConfiguration
+//@RunWith(SpringJUnit4ClassRunner.class)
+//@SpringApplicationConfiguration(classes = CustomerServiceApplication.class)
+//@WebAppConfiguration
 public class CustomerServiceApplicationTests {
 
-	@Test
-	public void contextLoads() {
-	}
+//	@Test
+//	public void contextLoads() {
+//	}
 
 }
